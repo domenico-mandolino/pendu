@@ -14,3 +14,9 @@ menu
 fichier
 plateforme
 projet
+AMORE
+GIGI
+CIAO
+FILE
+AAA
+PLATEFORME
